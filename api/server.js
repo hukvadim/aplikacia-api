@@ -27,10 +27,10 @@ app.use('/courses', courseRoutes);
 app.use('/tests', testRoutes);
 
 // Vercel API handler
-// module.exports = app;
+module.exports = app;
 
-// Запуск сервера
-const PORT = 5000;
-app.listen(PORT, () => {
-    console.log(`Server running on http://localhost:${PORT}`);
-});
+// // Запуск сервера
+// const PORT = 5000;
+// app.listen(PORT, () => {
+//     console.log(`Server running on http://localhost:${PORT}`);
+// });
