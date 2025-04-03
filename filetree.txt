@@ -1,0 +1,35 @@
+api
+ ┣ api
+ ┃ ┗ server.js
+ ┣ controllers
+ ┃ ┣ authController.js
+ ┃ ┣ courseController.js
+ ┃ ┣ testController.js
+ ┃ ┗ userController.js
+ ┣ models
+ ┃ ┣ Answer.js
+ ┃ ┣ Course.js
+ ┃ ┣ Test.js
+ ┃ ┗ User.js
+ ┣ public
+ ┃ ┣ files
+ ┃ ┃ ┣ 1743682672133_GFG-SEO-CHECKLIST.pdf
+ ┃ ┃ ┣ 1743682672161_âPngtreeâviking_clipart_an_viking_character_11061416.png
+ ┃ ┃ ┣ 1743682672190_AV2.webp
+ ┃ ┃ ┣ 1743682865968_GFG-SEO-CHECKLIST.pdf
+ ┃ ┃ ┣ 1743682865984_âPngtreeâviking_clipart_an_viking_character_11061416.png
+ ┃ ┃ ┗ 1743682865994_AV2.webp
+ ┃ ┗ img
+ ┃ ┃ ┗ courses
+ ┃ ┃ ┃ ┣ 1743682672114_ChatGPT_Image_30_Ð±ÐµÑ._2025_Ñ.,_13_12_01.png
+ ┃ ┃ ┃ ┗ 1743682865950_ChatGPT_Image_30_Ð±ÐµÑ._2025_Ñ.,_13_12_01.png
+ ┣ routes
+ ┃ ┣ courseRoutes.js
+ ┃ ┣ testRoutes.js
+ ┃ ┗ userRoutes.js
+ ┣ .gitattributes
+ ┣ .gitignore
+ ┣ filetree.txt
+ ┣ package-lock.json
+ ┣ package.json
+ ┗ vercel.json
